@@ -1,5 +1,5 @@
 # GitHub-actions
-This is repository is to demonstrate the GitHub action feature with various example
+This is repository is to demonstrate the GitHub action feature with various examples
 
 https://azure.github.io/actions/#automate
 
